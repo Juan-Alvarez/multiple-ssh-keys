@@ -1,0 +1,4 @@
+Step 1 
+On your host machine's terminal Home directory type:
+$ mkdir .ssh
+$ ssh-keygen -t rsa -b 4096 -C your-key-1 -f key1-remote-server-centos
